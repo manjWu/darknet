@@ -1,0 +1,6 @@
+classes= 2
+train  = drone/train.txt
+valid  = drone/valid.txt
+#valid = data/coco_val_5k.list
+names = drone/drone.names
+backup = /root/wmj-docker/darknet/backup
